@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## ⚡ Fun fact: facts are fun
 <!--
 **Miaatmozilla/miaatmozilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
